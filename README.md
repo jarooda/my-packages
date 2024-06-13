@@ -4,9 +4,9 @@ This is my lists of published npm packages
 
 
 
-| Name                          | Repository                            | Status     |
-|-------------------------------|---------------------------------------|------------|
-| [string-randomify][1]         | [jarooda/string-randomify][a]         | `Active`   |
+| Name                          | Repository                            | Description                            | Status     |
+|-------------------------------|---------------------------------------|----------------------------------------|------------|
+| [string-randomify][1]         | [jarooda/string-randomify][a]         | Random string generator                | `Active`   |
 
 
 
